@@ -1,4 +1,4 @@
 ### Hello World 👋
 
-- 🌱 I’m currently learning CSS, SASS, JS
+🌱 Currently learning HTML, CSS, JS
 
