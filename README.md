@@ -1,4 +1,1 @@
-### Hello World 👋
-
-🌱 Currently learning HTML, CSS, JS
-
+# Hello World 👋
